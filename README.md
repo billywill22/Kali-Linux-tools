@@ -7,7 +7,7 @@ Then install wps-setup
 
 Download by cloning the github.com repository with the following link command 
 
-# $ git clone https://github.com/billywill22/Kali-Linux-tools/git
+ $ git clone https://github.com/billywill22/Kali-Linux-tools/git
 
 Download the zip file extract it at a suitable location ie /home directory 
 
@@ -23,3 +23,11 @@ Python3 oneshot.py -i wlan0 -K
 I parrot Os type;
 
 Python3 oneshot.py -i wlp2s0 -K
+
+
+
+
+
+
+
+
