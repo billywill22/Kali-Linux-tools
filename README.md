@@ -17,4 +17,5 @@ Example in kali Linux type;
 Python3 oneshot.py -i wlan0 -K
 
 I parrot Os type;
+
 Python3 oneshot.py -i wlp2s0 -K
